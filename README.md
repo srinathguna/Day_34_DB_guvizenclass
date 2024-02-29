@@ -7,5 +7,5 @@ PDF describe the zenclass database model table diagram and listed queries used f
 1. Large image of DB model EER diagram.
 2. Listed all the mysql queries.
 
-## excuted the sql queries
+## executed the sql queries
 using the website [dbdiagram.io](https://dbdiagram.io/)https://dbdiagram.io/
