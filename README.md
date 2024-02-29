@@ -1,7 +1,7 @@
 # Database_GuviZenclass
 
 ## Description
-PDF describe the mysql queries of database model and list queries used for creating db
+PDF describe the zenclass database model table diagram and listed queries used for creating db.
 
 ## contents
 1. Large image of DB model EER diagram.
